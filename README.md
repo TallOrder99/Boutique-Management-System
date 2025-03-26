@@ -8,14 +8,14 @@ A **.NET Core** and **SQL**-based web application for managing boutique inventor
 ✔ **Inventory Management** – Track products, categories, and stock levels.  
 ✔ **Sales & Order Processing** – Record purchases, returns, and customer history.  s.  
 ✔ **Customer Management** – Store client details and purchase history.  
-✔ **SQL Database** – Uses **SQL Server / PostgreSQL / MySQL** for data persistence.  
+✔ **ySQL Database** – Uses **MySQL** for data persistence.  
 
 ---
 
 ## **🛠 Technologies Used**  
 - **Backend**: .NET Core 6+ (C#)  
 - **Database**: MySQL  
-- **Frontend**: Razor Pages 
+- **Frontend**: Windows Forms
 
 ---
 
@@ -23,14 +23,16 @@ A **.NET Core** and **SQL**-based web application for managing boutique inventor
 
 ### **Prerequisites**  
 - .NET 6+ SDK  
-- SQL Server / PostgreSQL / MySQL  
-- Visual Studio 2022 / VS Code  
+- MySQL  
+- Visual Studio 2022 / VS Code
+- 
+Visual Studio IDE for development and debugging
 
 ### **Setup & Run**  
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/your-repo/boutique-management-system.git
-   cd boutique-management-system
+   git clone https://github.com/your-repo/Boutique-Management-System.git
+   cd Boutique-Management-System
    ```  
 
 2. **Configure the database**:  
