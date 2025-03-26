@@ -31,7 +31,7 @@ Visual Studio IDE for development and debugging
 ### **Setup & Run**  
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/your-repo/Boutique-Management-System.git
+   git clone https://github.com/TallOrder99/Boutique-Management-System.git
    cd Boutique-Management-System
    ```  
 
